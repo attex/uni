@@ -4,7 +4,7 @@
 \contentsline {section}{\numberline {2}Jahresabschluss und Gesch\IeC {\"a}ftsbericht}{2}
 \contentsline {subsection}{\numberline {2.1}Umsatzkostenverfahren}{2}
 \contentsline {subsection}{\numberline {2.2}Gesamtkostenverfahren}{2}
-\contentsline {subsection}{\numberline {2.3}Kapitalflussrechnung}{2}
+\contentsline {subsection}{\numberline {2.3}Kapitalflussrechnung}{3}
 \contentsline {subsubsection}{\numberline {2.3.1}Cashflow aus laufender Gesch\IeC {\"a}ftst\IeC {\"a}tigkeit}{3}
 \contentsline {section}{\numberline {3}Bilanzierung}{3}
 \contentsline {subsection}{\numberline {3.1}Fair value}{3}
@@ -13,24 +13,27 @@
 \contentsline {subsection}{\numberline {4.2}Kennzahlen der Liquidit\IeC {\"a}t}{3}
 \contentsline {subsubsection}{\numberline {4.2.1}Net long-term Financing}{3}
 \contentsline {subsubsection}{\numberline {4.2.2}Net short-term Financing}{3}
-\contentsline {subsubsection}{\numberline {4.2.3}Liquidity Ratio}{3}
-\contentsline {subsubsection}{\numberline {4.2.4}Auswirkungen der Branche auf das WC}{3}
+\contentsline {subsubsection}{\numberline {4.2.3}Liquidity Ratio}{4}
+\contentsline {subsubsection}{\numberline {4.2.4}Auswirkungen der Branche auf das WC}{4}
 \contentsline {subsubsection}{\numberline {4.2.5}Umschlagsdauer und H\IeC {\"a}ufigkeit}{4}
 \contentsline {subsection}{\numberline {4.3}Traditionelle Liquidit\IeC {\"a}tsma\IeC {\ss }e}{4}
 \contentsline {section}{\numberline {5}Bilanzanalyse}{4}
 \contentsline {subsection}{\numberline {5.1}Differenzierungsm\IeC {\"o}glichkeiten}{4}
 \contentsline {subsubsection}{\numberline {5.1.1}Absolute Kennzahlen}{4}
 \contentsline {subsubsection}{\numberline {5.1.2}Relative Kennzahlen}{4}
-\contentsline {subsubsection}{\numberline {5.1.3}Marktwertbasierte Kennzahlen}{4}
-\contentsline {subsubsection}{\numberline {5.1.4}EBIT-Multiple}{4}
-\contentsline {subsubsection}{\numberline {5.1.5}Monet\IeC {\"a}re und nicht-monet\IeC {\"a}re Kennzahlen}{4}
-\contentsline {section}{\numberline {6}Wertorientierte Unternehmensf\IeC {\"u}hrung}{5}
-\contentsline {subsection}{\numberline {6.1}Eigenkapitalkosten}{5}
-\contentsline {subsection}{\numberline {6.2}Kapitalkosten}{5}
-\contentsline {subsection}{\numberline {6.3}Economic Value Added}{5}
-\contentsline {subsubsection}{\numberline {6.3.1}Gewinn vor Kapitalkosten}{5}
-\contentsline {section}{\numberline {7}Budgetierung}{5}
-\contentsline {subsection}{\numberline {7.1}Budgetierung}{5}
-\contentsline {subsection}{\numberline {7.2}Benchmarking}{5}
-\contentsline {subsubsection}{\numberline {7.2.1}Ziele des Benchmarking}{5}
-\contentsline {subsubsection}{\numberline {7.2.2}Erfolgsfaktoren eines Benchmarkingprojektes}{6}
+\contentsline {subsubsection}{\numberline {5.1.3}Marktwertbasierte Kennzahlen}{5}
+\contentsline {subsubsection}{\numberline {5.1.4}EBIT-Multiple}{5}
+\contentsline {subsubsection}{\numberline {5.1.5}Monet\IeC {\"a}re und nicht-monet\IeC {\"a}re Kennzahlen}{5}
+\contentsline {section}{\numberline {6}Abschreibungen}{5}
+\contentsline {subsection}{\numberline {6.1}Lineare Abschreibung}{5}
+\contentsline {subsection}{\numberline {6.2}Geometrisch-degressive Abschreibung}{5}
+\contentsline {section}{\numberline {7}Wertorientierte Unternehmensf\IeC {\"u}hrung}{5}
+\contentsline {subsection}{\numberline {7.1}Eigenkapitalkosten}{5}
+\contentsline {subsection}{\numberline {7.2}Kapitalkosten}{6}
+\contentsline {subsection}{\numberline {7.3}Economic Value Added}{6}
+\contentsline {subsubsection}{\numberline {7.3.1}Gewinn vor Kapitalkosten}{6}
+\contentsline {section}{\numberline {8}Budgetierung}{6}
+\contentsline {subsection}{\numberline {8.1}Budgetierung}{6}
+\contentsline {subsection}{\numberline {8.2}Benchmarking}{6}
+\contentsline {subsubsection}{\numberline {8.2.1}Ziele des Benchmarking}{6}
+\contentsline {subsubsection}{\numberline {8.2.2}Erfolgsfaktoren eines Benchmarkingprojektes}{6}
